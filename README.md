@@ -1,2 +1,5 @@
-# renal-tubular-acidosis-past-years-quiz
-Renal Tubular Acidosis · Past Years · Quiz
+# Renal Tubular Acidosis · Past Years · Quiz
+
+كويز تفاعلي — ملف HTML واحد، بيفتح على أي موبايل أو كمبيوتر.
+
+اللينك: شوف **About → Website** في الريبو ده.
